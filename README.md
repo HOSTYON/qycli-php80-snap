@@ -1,14 +1,9 @@
-# PHP 8.0 for the [qycli](https://qycli.org) LEMP stack
+# PHP 8.0 for [qycli](https://qycli.org)
 
-
-
-Compiled PHP binaries carrier for the qycli LEMP stack.
+Compiled PHP binaries carrier for qycli.
 
 This product includes PHP software, freely available from [http://www.php.net/software/](http://www.php.net/software/)
-
-
 
 [Developer website](https://qycli.org)
 
 [Contact HOSTYON](mailto:qycli@hostyon.com)
-
